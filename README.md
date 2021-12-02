@@ -1,5 +1,3 @@
-Murilo Castilho
-
 - 🔭 ReactJs Developer - Intern
 <!--
 - 🌱 I’m currently learning ...
